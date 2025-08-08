@@ -34,8 +34,8 @@ github_username:  jekyll
 #theme: minimal-mistakes-jekyll
 #remote_theme: "daattali/beautiful-jekyll"
 #remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-#remote_theme: "mmistakes/minimal-mistakes"
-theme: "jekyll-theme-cayman"
+remote_theme: "mmistakes/minimal-mistakes"
+#theme: "jekyll-theme-cayman"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
